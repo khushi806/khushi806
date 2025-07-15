@@ -1,16 +1,30 @@
-## Hi there 👋
+### 👋 Hi, I'm Khushi!
 
-<!--
-**khushi806/khushi806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | Class of 2027  
+💻 Passionate about DSA, Python and building real-world tech projects  
+🚀 Currently learning AI/ML and working on creative Python ideas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Learning:
+- 📚 DSA (Striver Sheet)
+- 🐍 Python (Basics, NumPy, Projects)
+- 🧠 AI/ML (Beginner Level)
+- 💡 Problem Solving (Love Babbar, Shash Code)
+
+---
+
+### 🌱 Projects:
+- 🧿 Blink-to-Code Generator (Python + Eye Tracking)
+- 🧮 Python Mini Projects (Calculator, ToDo App, Quiz Game)
+
+---
+
+### 📫 Let's Connect:
+- Email: khushisain001990@gmail.com
+- GitHub: (https://github.com/khushi806)
+
+---
+
+⭐ *"Learning one step at a time — coding, creating, and growing!"*
+
