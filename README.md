@@ -15,7 +15,7 @@
 ---
 
 ### 🌱 Projects:
-- 🧿 Blink-to-Code Generator (Python + Eye Tracking)
+- 🧿 AI Code Generator using Eye Tracking & Blinks (Python + Eye Tracking)
 - 🧮 Python Mini Projects (Calculator, ToDo App, Quiz Game)
 
 ---
